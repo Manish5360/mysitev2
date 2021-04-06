@@ -1,0 +1,143 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: rgb(235, 208, 208);;
+}
+h1 {
+    margin: 0 auto;
+    padding-top: 40px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    color: rgb(155, 142, 142);
+}
+.top-container {
+    background-color: rgb(27, 25, 25);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.middle-container {
+    padding-top: 100px;
+    background-color: rgb(27, 25, 25);
+    padding-top: 100px;
+}
+.bottom-container {
+   padding-top: 20px;
+   padding-bottom: 8px;
+   background-color: rgb(77, 74, 74);
+   
+}
+.pro {
+    text-decoration: underline;
+}
+.img1 {
+    position: relative;
+    left: 350px;
+
+}
+.img2 {
+    position: relative;
+    right: 70px;
+    zoom: 125%;
+}
+.bimg1 {
+    position: relative;
+    bottom: 380px;
+}
+.prof {
+    width: 350px;
+    border-radius: 50%;
+    margin-bottom: 80px;
+}
+.footer-link {
+    color: rgb(211, 197, 197);
+    font-size: 130%;
+    padding-right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.footer-link:hover {
+    color: grey;
+}
+.contact-me {
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+.skill {
+    width: 200px;
+    
+}
+.skill1 {
+    width: 40%;
+    float: left;
+    border-radius: 10%;
+    margin-right: 200px;
+}
+.skill2 {
+    width: 40%;
+    float: right;
+    padding-left: 0px;
+    border-radius: 10%;
+}
+/*clear is used as an anti float*/
+.btn {
+    color: rgb(209, 196, 196);
+}
+hr {
+    color: rgb(146, 137, 137);
+    border-style: dotted none none;
+    border-width: 6px;
+    height: 0px;
+    width: 8%;
+    padding-top: 10px;
+}
+.heading2 {
+    font-size: 2rem;
+    font-weight: lighter;
+    line-height: 2;
+}
+.skillblock {
+    width: 50%;
+    text-align: left;
+    margin: 70px auto 200px auto;
+}
+.skilldesc {
+    line-height: 2;
+}
+.cntcticon {
+    width: 19px;
+    padding-right: 10px;
+}
+.btn {
+    line-height: 3;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 15px;
+    text-shadow: 0px 1px 3px #917791;
+    font-family: Arial;
+    color: #2b2b2b;
+    font-size: 20px;
+    background: #788f9e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    text-decoration: none;
+  }
