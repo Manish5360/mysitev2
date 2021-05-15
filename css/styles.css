@@ -46,7 +46,7 @@ p {
 .img2 {
     position: relative;
     right: 70px;
-    zoom: 125%;
+    width: 50rem;
 }
 .bimg1 {
     position: relative;
@@ -78,13 +78,13 @@ p {
     
 }
 .skill1 {
-    width: 40%;
+    width: 20rem;
     float: left;
     border-radius: 10%;
     margin-right: 200px;
 }
 .skill2 {
-    width: 40%;
+    width: 20rem;
     float: right;
     padding-left: 0px;
     border-radius: 10%;
